@@ -152,6 +152,6 @@ Es wird zuerst das LVM auf der zweiten Platte eingerichtet, danach werden alle e
   
   ### Finished - a reboot is necessary!
 
-Gebe in der Konsole nun den Befehl ``reboot`` ein.
+Gib in der Konsole nun den Befehl ``reboot`` ein.
 
 Danach steht dem :ref:`setup-label` nichts mehr im Wege.
